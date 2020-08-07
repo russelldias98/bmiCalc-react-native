@@ -4,8 +4,9 @@ I've created a sample BMI Calculator app in React Native
 
 ## Screenshots
 
-![screenshot](https://imgur.com/a/nSt3nDK)
-![screenshot](https://imgur.com/a/fnqldda)
+![screenshot](https://user-images.githubusercontent.com/3706645/89645576-b6859f00-d8d7-11ea-9493-530c55187b1c.png)
+![screenshot](https://user-images.githubusercontent.com/3706645/89645568-b38aae80-d8d7-11ea-9610-076c760a4bed.png)
+
 
 ## Built With
 
